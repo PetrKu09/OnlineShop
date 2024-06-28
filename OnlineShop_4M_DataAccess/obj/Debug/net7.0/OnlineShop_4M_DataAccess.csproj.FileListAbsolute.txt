@@ -1,0 +1,17 @@
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_DataAccess.deps.json
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_DataAccess.dll
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_DataAccess.pdb
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_Models.dll
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_Utility.dll
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_Models.pdb
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\bin\Debug\net7.0\OnlineShop_4M_Utility.pdb
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.AssemblyInfo.cs
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.csproj.CopyComplete
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.dll
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\refint\OnlineShop_4M_DataAccess.dll
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\OnlineShop_4M_DataAccess.pdb
+C:\Users\Petrushka\OneDrive\Рабочий стол\OnlineShop-master\OnlineShop_4M_DataAccess\obj\Debug\net7.0\ref\OnlineShop_4M_DataAccess.dll
